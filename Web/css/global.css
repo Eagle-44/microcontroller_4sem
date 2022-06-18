@@ -1,0 +1,26 @@
+body{
+    background: #222;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background-image: url(https://source.unsplash.com/1920x1080?Hotairballoon);
+}
+
+h1{
+color: aliceblue;
+width: 100%;
+max-width: 800px;
+align-items: center;
+font-size: xxx-large;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color:aliceblue
+}

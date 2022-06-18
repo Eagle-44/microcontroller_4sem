@@ -1,0 +1,53 @@
+.inform_cart{
+    display: flex;
+    align-items: center;
+    max-width: 800px;
+    font-size: 18px;
+    
+}
+
+.information_loc{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background: #000000d0;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 100%;
+    width: 250px;
+    height: 105px;
+    margin-bottom: 10px ;
+    margin-top: 10px ;
+}
+
+.under_inform_cart{
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+}
+.information_baro_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 10px;
+    background: #000000d0;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 100%;
+    height: 105px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 110px;
+}
+
+.information_alti{
+    background: #000000d0;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    max-width: 800px;
+    font-size:xx-large;
+}
+
